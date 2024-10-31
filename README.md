@@ -1,12 +1,5 @@
 # End-to-End-Insurance-Premium-Prediction
 
-<br>
-
-[Linkedin](https://www.linkedin.com/in/ambarish-224/) <br>
-[Medium](https://medium.com/@Ambarish_224) <br>
-[Github](https://github.com/Ambarish-224) <br>
-
-<br>
 
 
 ## UI of Application:-
