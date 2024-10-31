@@ -118,6 +118,6 @@ pip install -r requirements.txt
   
   <br><br><br>
   ### Thanks & Regards
-  ### Ambarish Singh
+  ### Rutwik Kharmale
   
 
